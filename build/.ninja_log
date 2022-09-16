@@ -1,0 +1,7 @@
+# ninja log v5
+4	264	6850270975119197	CMakeFiles/shit_lib_cxx98.dir/test/main.cpp.obj	7f2c11c8ad149d67
+376	1013	6850270982513323	shit_lib_cxx98.exe	a80db4af2d862c23
+10	255	6850276032920814	CMakeFiles/shit_lib_cxx98.dir/test/main.cpp.obj	7f2c11c8ad149d67
+256	820	6850276038471387	shit_lib_cxx98.exe	a80db4af2d862c23
+19	257	6850276444256152	CMakeFiles/shit_lib_cxx98.dir/test/main.cpp.obj	7f2c11c8ad149d67
+258	795	6850276449534791	shit_lib_cxx98.exe	a80db4af2d862c23

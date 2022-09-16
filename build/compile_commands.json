@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/PanzerVI-Tiger/Documents/vscode/shit_lib_cxx98/build",
+  "command": "C:\\Users\\PanzerVI-Tiger\\Downloads\\mingw-w64-gcc-11.2-stable-r35a-posix-threads\\bin\\x86_64-w64-mingw32-g++.exe -g -std=gnu++98 -o CMakeFiles\\shit_lib_cxx98.dir\\test\\main.cpp.obj -c C:\\Users\\PanzerVI-Tiger\\Documents\\vscode\\shit_lib_cxx98\\test\\main.cpp",
+  "file": "C:\\Users\\PanzerVI-Tiger\\Documents\\vscode\\shit_lib_cxx98\\test\\main.cpp"
+}
+]
